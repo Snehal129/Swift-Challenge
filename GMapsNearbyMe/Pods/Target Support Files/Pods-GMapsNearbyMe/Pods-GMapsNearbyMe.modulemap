@@ -1,0 +1,6 @@
+framework module Pods_GMapsNearbyMe {
+  umbrella header "Pods-GMapsNearbyMe-umbrella.h"
+
+  export *
+  module * { export * }
+}
